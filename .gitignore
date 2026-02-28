@@ -1,0 +1,11 @@
+# SolidWorks Simulation results
+*.CWR
+*.cwr
+*.BDF
+*.BD2
+*.MFC
+*.SL4
+*.LOG
+*.gsz
+*.out
+*.err
